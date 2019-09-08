@@ -1,6 +1,6 @@
 ---
   - name: copy files in desintation location
     copy: 
-      src: /copyfile/files/index.php
+      src: /files/index.php
       dest: /var/www/index.php
 # tasks file for copyfile
